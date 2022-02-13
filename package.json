@@ -1,7 +1,7 @@
 {
-  "name": "aldaba-clean_code-intro",
+  "name": "labs-clean_code-intro",
   "version": "0.0.2",
-  "description": "Curso de introducción al Código Limpio para Aldaba",
+  "description": "Introductory course to Clean Code",
   "author": {
     "name": "Alberto Basalo",
     "email": "albertobasalo@hotmail.com",
