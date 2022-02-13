@@ -1,17 +1,17 @@
-# Aldaba Clean code Intro
+# Labs Clean Code Intro
 
-> Introducción al desarrollo limpio
+> Introduction to clean development
 
 ## Code
 
 ```
-git clone https://github.com/LabsAdemy/Aldaba-CleanCode-Intro.git
+git clone https://github.com/LabsAdemy/Labs-CleanCode-Intro.git
 npm i
 ```
 
 ## Exercise
 
-Tasks for Astro Bookings: https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/blob/main/TO_DO.md
+Tasks for Astro Bookings: https://github.com/LabsAdemy/Labs-CleanCode-Intro/blob/main/TO_DO.md
 
 ## 🛠 VS Code
 
