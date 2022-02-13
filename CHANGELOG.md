@@ -13,7 +13,7 @@ All notable changes to this project will be documented in this file. See [standa
 * config for naming conventions ([f317352](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/f317352e559f6d6c9d6a2a6744de11ef2744a03e))
 * db name ([db65b09](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/db65b0967c9d7ae96f20220b4323eb2dcd55bef2))
 * dirty comments an names ([4d5ae77](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/4d5ae77afc7999bb1370df887a0134b1ee5a419b))
-* enum pascalcase ([f106f04](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/f106f04708c9d374014f0341e01db4c001d630ed))
+* enum pascal case ([f106f04](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/f106f04708c9d374014f0341e01db4c001d630ed))
 * eslint naming conventions ([0776ed7](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/0776ed75393ef9d47a49d7c6856ca859ef0f179a))
 * extra ([00defd7](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/00defd71b52bcbb3afb61184648ac621177ff8d2))
 * initial version ([2815b0a](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/commit/2815b0a9b7625fdbce428e3a978b52a8b6759894))
