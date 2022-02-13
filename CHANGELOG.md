@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/LabsAdemy/Labs-CleanCode-Intro/compare/v0.0.5...v0.0.6) (2022-02-13)
+
+
+### Features
+
+* dirty data ([8f6be4a](https://github.com/LabsAdemy/Labs-CleanCode-Intro/commit/8f6be4a4431db7f164bcc98f579e19213f7de7ee))
+
 ### 0.0.5 (2022-02-13)
 
 ### [0.0.2](https://github.com/LabsAdemy/Aldaba-CleanCode-Intro/compare/v0.0.1...v0.0.2) (2022-02-08)
