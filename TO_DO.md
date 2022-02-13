@@ -1,26 +1,26 @@
-# Ejercicio propuesto
+# Proposed exercise
 
-> Limpiar una aplicación para reservas de viajes espaciales (Astro Bookings)
+> Clean up Astro Bookings, an app for space travel reservations.
 
 ## 1.- NAMES
 
 > Style Guide
 
-- [x] **1.1.- Variable naming with nouns**
+- [ ] **1.1.- Variable naming with nouns**
 
-- [x] **1.2.- Function naming with verbs**
+- [ ] **1.2.- Function naming with verbs**
 
-- [x] **1.3.- Magic numbers and redundant comments**
+- [ ] **1.3.- Magic numbers and redundant comments**
 
 ## 2.- FUNCTION
 
 > Instructions, blocks and structures
 
-- [x] **2.1.- Simple instructions**
+- [ ] **2.1.- Simple instructions**
 
-- [x] **2.2.- Small blocks**
+- [ ] **2.2.- Small blocks**
 
-- [x] **2.3.- Plain structure**
+- [ ] **2.3.- Plain structure**
 
 ## 3.- DATA
 
@@ -44,4 +44,4 @@
 
 - [ ] **4.4.- Interface segregation principle**
 
--[ ] **4.5.- Dependency inversion principle**
+- [ ] **4.5.- Dependency inversion principle**

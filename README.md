@@ -1,4 +1,4 @@
-# Clean code Intro Labs
+# Labs Clean Code Intro
 
 > Introduction to clean development
 
